@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sanya Trivedi
+- 👀 I’m interested in programming,music,arts
+- 🌱 I’m currently learning programming in C and Python
+- 📕I'm currently studying in SRM University, Chennai in B.Tech course for ECE 
+- 📫 How to reach me:
+- 📧Email: trivedisanya15@gmail.com
